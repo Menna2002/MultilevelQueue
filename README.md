@@ -29,6 +29,10 @@ Additionally, the output includes the waiting time for each process and the aver
 ## GUI
 GUI that displays a kernel diagram and the ready queue in a table format.
 
+![kernel](GUI/kernel.png)
+
+![details](GUI/details.png)
+
 ## Contributors
 This project was completed by:
 - Menna Allah Saed

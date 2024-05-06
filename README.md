@@ -27,7 +27,7 @@ Example Output:
 Additionally, the output includes the waiting time for each process and the average waiting time.
 
 ## GUI
-GUI that displays a kernel diagram and the ready queue in a table format.
+GUI that displays a kernel diagram and the ready queue.
 
 ![kernel](GUI/kernel.png)
 

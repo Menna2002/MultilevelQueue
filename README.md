@@ -29,12 +29,11 @@ Additionally, the output includes the waiting time for each process and the aver
 ## GUI
 GUI that displays a kernel diagram and the ready queue in a table format.
 
-## nbviewer link
-
-https://nbviewer.org/github/Menna2002/MultilevelQueue/blob/master/MLQ.ipynb
-
 ## Contributors
 This project was completed by:
 - Menna Allah Saed
 - Aya Ahmed
 - Retaj Ayman
+
+## nbviewer link
+https://nbviewer.org/github/Menna2002/MultilevelQueue/blob/master/MLQ.ipynb

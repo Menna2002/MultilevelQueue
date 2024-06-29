@@ -35,8 +35,8 @@ GUI that displays a kernel diagram and the ready queue.
 
 ## Contributors
 This project was completed by:
-- Menna Allah Saed
-- Aya Ahmed
+- [Menna Allah Saed](https://github.com/menna2002)
+- [Aya Ahmed](https://github.com/AyaAhmed50)
 
 ## nbviewer link
 https://nbviewer.org/github/Menna2002/MultilevelQueue/blob/master/MLQ.ipynb
